@@ -1,0 +1,7 @@
+Home Lab is temporarily complete.
+Here is what was added / changed / what is in-use:
+- Slightly messed up and had to re-download ParrotOS as I downloaded the virtual disk file instead of the .iso. Using "Security"
+- The virtual disk file would have worked, but the .iso was an easier setup for my usage
+- Got ParrotOS installed
+- Installed and using VMware
+- Using OpenVPN
