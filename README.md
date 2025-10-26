@@ -1,22 +1,17 @@
 ## lab-metis
-### Documentation and progress tracking for my home lab. See the README for detailed background and project info. 
+### Documentation and progress tracking for my home lab.
 
-//Update 10-12-2025
+// Update 10-12-2025
 #### My Background
-Outside of _very basic_ Windows and Linux command-line and file hierarchy work as well as general usage for both operating systems, I am starting from scratch. 
+Outside of _very basic_ Windows and Linux command-line work as well as general usage for both operating systems, I am "practically" starting from scratch. 
+I have two certifications: A+ and Security+ and am pursuing a BSCS as well as a few more certifications that will be added here once acquired.
 
-#### My Why
-This home lab is intended for use for Hack The Box (HTB) labs as I go from the rank of "Noob" to "Hacker" (and beyond). 
-This is **also** my introduction into not only home labbing, but HTB labs, cybersecurity labs, and really anything to do with practical work for IT/InfoSec/Cyber. 
-I want to be great at this and land a job in the space - so I am practicing / working to become great and accomplish the latter. 
+# Lab Details
+- VMWare with ParrotOS Security Edition (comes with most standard tools you'd want / need for lab work - I grabbed a few more as well)
+- OpenVPN
 
-# Lab Details / Specs
-I am using two laptops for this - details below this section.
-
-
-#### Computer Details / Specs
-Here are the details for my laptops:
-- Using 2 laptops because I upgrade my laptop for more RAM and kept my "old" one
-  - The laptops: 2024 ASUS Zephyrus G16 and 2020 ASUS Zephyrus G14
-    - G16 specs: 32gb RAM, Ultra 9 Processor, 4080 (mobile-crippled), 1TB SSD and an extra 500GB SSD that currently holds Fedora but will likely change to Red Hat Enterprise Linux (RHEL)
-    - G14 specs: 16gb RAM, AMD Ryzen™ 9 4900HS, 2060 (mobile-crippled). 1TB SSD that just holds the home lab
+//10-26-25
+## Updating and Using GitHub as a "blog"
+This README will be for HTB Labs / HTB CDSA Progress. 
+I will provide home-lab updates here as well.
+I will likely add pages / READMEs for write-ups on Malware Reverse-Engineering, books and certifications when I cross those bridges. The work load right now is rather heavy, so I'm checking things off as I go.
