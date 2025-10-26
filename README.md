@@ -10,6 +10,4 @@ I have two certifications: A+ and Security+ and am pursuing a BSCS as well as a 
 - OpenVPN
 
 ## Updating and Using GitHub as a "blog"
-This README will be for HTB Labs / HTB CDSA Progress. 
-I will provide home-lab updates here as well.
-I will likely add pages / READMEs for write-ups on Malware Reverse-Engineering, books and certifications when I cross those bridges. The work load right now is rather heavy, so I'm checking things off as I go.
+This README will be for HTB Labs / HTB CDSA Progress.
