@@ -6,7 +6,7 @@ I've used Windows for 5+ years and have used Linux for around 6 months. I have n
 I have two certifications: A+ and Security+ and am pursuing a BSCS as well as a few more certifications that will be added here once acquired.
 
 ## Lab Details
-- VMWare with ParrotOS Security Edition
+- VMWare with ParrotOS
 - OpenVPN
 
 ## Updating and Using GitHub as a "blog"
